@@ -1267,7 +1267,7 @@ class RegistrationProvider extends ChangeNotifier {
     'Bapatla/బాపట్ల',
     'Parchur/పర్చూరు ',
     'Addanki/అద్దంకి',
-    'Chirala   '
+    'Chirala/చీరాల'
   ];
 
   List<String> annamayya = [
